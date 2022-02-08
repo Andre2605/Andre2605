@@ -1,16 +1,13 @@
-### Hi there 👋
+# About Me.
 
-<!--
-**Andre2605/Andre2605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Halo semua! 
 
-Here are some ideas to get you started:
+Perkenalkan nama saya **Nicolas Maria Andre Gozali**.\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya seorang **Mahasiswa** di Universitas Prasetiya Mulya.\
+
+Saya sedang menjalankan studi di bidang **Matematika** dengan pendalaman pada **data science**.\
+
+Saya sangat tertarik dan menyukai bidang teknologi, khususnya programming dan software development.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nicolas-maria-andre-gozali/)ku ya.

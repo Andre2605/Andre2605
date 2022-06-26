@@ -1,16 +1,16 @@
 # About Me.
 
-# Halo semua! 
+# Hi Everyone! 
 
-Perkenalkan nama saya **Nicolas Maria Andre Gozali**.\
+**A skillful data analyst and a machine learning enthusiast.**
 
-Saya seorang **Mahasiswa** di Universitas Prasetiya Mulya.\
+Currently studying in **Applied Mathematics** at Universitas Prasetiya Mulya. Simultaneously, I am also participating in the Bangkit program on the Machine Learning path. I used to work as an intern in **Business Development** at PT FIF. Over a six months period, I did market research and processed data to see the development of product sales on a daily basis.
 
-Saya sedang menjalankan studi di bidang **Matematika** dengan pendalaman pada **data science**.\
+In 2020, I also had an internship for one month as a **Credit Analyst** at PT Akseleran Indonesia. I once helped collect and analyze all client financial data to find potential customers. In addition, I am also actively participating in student organizations, which are organized by the campus, to expand connections, communication skills and leadership. In campus organizations, I once helped by becoming a Liaison Officer. I have also helped organize events in the organization as event management, and have also been a social media manager.
 
-Saya sangat tertarik dan menyukai bidang teknologi, khususnya programming dan software development.\
+I love to learn new things and I am constantly learning to develop my knowledge between the fields of data analysis, software engineering and machine learning.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nicolas-maria-andre-gozali/)ku ya.
+If you are interested in getting to know me, feel free to follow me in this account [Linkedin](https://www.linkedin.com/in/nicolas-maria-andre-gozali/).
 
 <!-- <p align="left">
 <a href="https://github.com/Andre2605">
